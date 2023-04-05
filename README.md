@@ -44,7 +44,7 @@ here was my sketch!
 
 for the color palette, i chose these:
 
-![screenshot of color palette that includes: white, grey, light blue, orange, and black](design/colors.png)
+![screenshot of color palette that includes: white, grey, light blue, orange, and black](design/colors2.png)
 
 using midjourney, i was able to generate the low-poly rendering of a marigold below that also tied into the creation of some concept art for a unity project i started. >:)
 
