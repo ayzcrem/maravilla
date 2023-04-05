@@ -69,7 +69,6 @@ padding: 3vh;
 
 .button{
 font-family: monospace;
-position: absolute;
 display: inline-block;
 padding: 10px;
 }
