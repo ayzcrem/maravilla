@@ -1,3 +1,5 @@
+lol wait, i dont know how it happened but i complete read over the part where this assignment was supposed to be about new york!! my bad...
+
 # how you built your HTML page # 
 1. draw a sketch
 2. figure out the wireframes/flexboxes
